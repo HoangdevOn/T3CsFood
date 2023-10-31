@@ -1,0 +1,227 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Bơ 034 VietGap 1kg",
+            "description": "Lớp vỏ xanh bóng đẹp mắt. Thân quả dài trung bình khoảng 27 tới 35 cm. Có hạt rất nhỏ thậm chí có trái còn không có hạt. Thịt quả thơm, vị ngọt béo ngậy.",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây nhập khẩu",
+                "Trái cây"
+            ],
+            "tag": [
+                "bơ sáp",
+                "bơ",
+                "bơ đăklak",
+                "quả bơ",
+                "trái bơ",
+                "bơ hữu cơ",
+                "bơ vietgap",
+                "bơ global",
+                "bơ sáp vietgap",
+                "bơ sáp hữu cơ",
+                "bơ sáp global"
+            ],
+            "image": [
+                "https: //csfood.vn/wp-content/uploads/2019/03/b%C6%A1-s%C3%A1p-034-210x210.png",
+                "https://csfood.vn/wp-content/uploads/2019/03/b%C6%A1-s%C3%A1p-034-1.png",
+                "https://csfood.vn/wp-content/uploads/2019/03/b%C6%A1-034-1.jpg"
+            ],
+            "price": 100000
+        },
+        {
+            "id": 2,
+            "productName": "Bơ Sáp VietGap Túi 500g",
+            "description": "Được trồng theo phương pháp hữu cơ. Cung cấp nhiều vitamin, dưỡng chất tốt cho cơ thể. Hương vị thơm ngon, hấp dẫn",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây nhập khẩu",
+                "Trái cây"
+            ],
+            "tag": [
+                "cam",
+                "cam đỏ",
+                "cam đỏ cara",
+                "cam đỏ úc",
+                "cam ruột đỏ",
+                "cam ruột đỏ nhập khẩu",
+                "cam ruột đỏ cara",
+                "cam cara ruột đỏ",
+                "cam nhập khẩu"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2015/01/B%C6%A1-S%C3%A1p-VietGap.jpg"
+            ],
+            "price": 70000
+        },
+        {
+            "id": 3,
+            "productName": "Bưởi Da Xanh Ruột Hồng VietGap",
+            "description": "Hương vị tươi ngon. Được trồng theo quy trình sạch. Cung cấp nhiều vitamin bổ dưỡng. Liên hệ trực tiếp để được giá sỉ tốt nhất",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây"
+            ],
+            "tag": [
+                "bưởi da xanh",
+                "buoi da xanh ruột hồng",
+                "bưởi ruột hồng",
+                "bưởi da xanh vietgap",
+                "bưởi vietgap"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2015/01/B%C6%A1-S%C3%A1p-VietGap.jpg",
+                "https://csfood.vn/wp-content/uploads/2018/11/b%C6%B0%E1%BB%9Fi-da-xanh....png"
+            ],
+            "price": 70000
+        },
+        {
+            "id": 4,
+            "productName": "Cam Cara Ruột Đỏ NK Úc túi 1kg",
+            "description": "Sản phẩm thực tế có thể có màu sắc khác nhau, tùy theo mùa vụ hoặc thời tiết. Có nhiều tác dụng tốt với sức khỏe. Được nhập khẩu trực tiếp từ Úc. Liên hệ trực tiếp để được giá sỉ tốt nhất.",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây nhập khẩu",
+                "Trái cây"
+            ],
+            "tag": [
+                "cam",
+                "cam đỏ",
+                "cam đỏ cara",
+                "cam đỏ úc",
+                "cam ruột đỏ",
+                "cam ruột đỏ nhập khẩu",
+                "cam ruột đỏ cara",
+                "cam cara ruột đỏ",
+                "cam nhập khẩu"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2015/01/B%C6%A1-S%C3%A1p-VietGap.jpg"
+            ],
+            "price": 155000
+        },
+        {
+            "id": 5,
+            "productName": "Chuối Cau VietGap",
+            "description": "Dùng trực tiếp hoặc chế biến món ăn. Giàu các dưỡng chất cho cơ thể. Đảm bảo an toàn Liên hệ trực tiếp để được giá sỉ tốt nhất",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây"
+            ],
+            "tag": [
+                "Chuối Cau VietGap",
+                "Chuối Cau",
+                "trái chuối cau",
+                "chuối cau 1kg"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2020/10/Chu%E1%BB%91i-Cau-VietGap.png",
+                "https://csfood.vn/wp-content/uploads/2020/10/Chu%E1%BB%91i-Cau-VietGap-1.png"
+            ],
+            "price": 30000
+        },
+        {
+            "id": 6,
+            "productName": "Combo Trái Cây Sạch Theo Tháng",
+            "description": "Được trồng theo quy trình sạch. Đảm bảo tươi ngon. Cung cấp nhiều vitamin bổ dưỡng",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây"
+            ],
+            "tag": [
+                "combo trái cây",
+                "combo",
+                "combo trái cây sạch",
+                "trái cây sạch csfood",
+                "trái cây sạch"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2019/03/combo1.png",
+                "https://csfood.vn/wp-content/uploads/2019/03/combo-tr%C3%A1i-c%C3%A2y-s%E1%BA%A1ch.png"
+            ],
+            "price": 2020000
+        },
+        {
+            "id": 7,
+            "productName": "Dưa Hấu Không Hạt VietGap Long An",
+            "description": "Sản phẩm thực tế có thể có màu sắc khác nhau, tùy theo mùa vụ hoặc thời tiết. Vỏ mỏng, nhiều nước, không hạt. Là loại trái cây giải khát tuyệt vời. Hương vị thơm ngon, ngọt mát, cung cấp nhiều vitamin cho cơ thể",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây"
+            ],
+            "tag": [
+                "dưa hấu không hạt long an",
+                "dưa hấu không hạt vietgap",
+                " dưa vietgap",
+                "dưa vietgap không hạt",
+                "dua hau long an",
+                "dua hau vietgap",
+                "dưa"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2022/01/2.2.png",
+                "https://csfood.vn/wp-content/uploads/2022/01/2.1.png"
+            ],
+            "price": 30000
+        },
+        {
+            "id": 8,
+            "productName": "Dâu Tây New Zealand",
+            "description": "Quả to tròn đều và tươi ngon. Đảm bảo an toàn vệ sinh thực phẩm. Tiện dụng, giàu giá trị dinh dưỡng",
+            "category": [
+                "Trái cây VietGap",
+                "Trái cây nhập khẩu",
+                "Trái cây"
+            ],
+            "tag": [
+                "dâu tây",
+                "dâu tây đà lạt",
+                "dâu tây vietgap",
+                "dâu tây hữu cơ",
+                "dâu tây global",
+                "dâu đà lạt",
+                "dâu tây đà lạt vietgap",
+                "dây tây đà lạt hữu cơ"
+            ],
+            "image": [
+                "https://csfood.vn/wp-content/uploads/2015/01/Dau-tay-Da-Lat-Ngoc-Ngoc.jpg",
+                "https://csfood.vn/wp-content/uploads/2015/01/Dau-tay-Da-Lat-Ngoc-Ngoc-1.jpg"
+            ],
+            "price": 380000
+        }
+    ],
+    "orders": [
+        {
+            "orderId": 1,
+            "customerName": "Vu Dinh Hoang",
+            "items": [
+                {
+                    "productId": 1,
+                    "productName": "Bơ 034 VietGap 1kg",
+                    "quantity": 2,
+                    "price": 100000
+                },
+                {
+                    "productId": 2,
+                    "productName": "Bơ Sáp VietGap Túi 500g",
+                    "quantity": 1,
+                    "price": 70000
+                }
+            ],
+            "total": 270000
+        },
+        {
+            "orderId": 2,
+            "customerName": "Doan Tu",
+            "items": [
+                {
+                    "productId": 7,
+                    "productName": "Dưa Hấu Không Hạt VietGap Long An",
+                    "quantity": 3,
+                    "price": 30000
+                }
+            ],
+            "total": 90000
+        }
+    ]
+}
