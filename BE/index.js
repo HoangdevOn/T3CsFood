@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 
-const products = require("./products");
+const products = require("./db.json");
 const app = express();
 
 app.use(express.json());
