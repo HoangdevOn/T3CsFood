@@ -1,11 +1,11 @@
-import './styleCart.css';
+import "./styleCart.css";
 import "react-toastify/dist/ReactToastify.css";
 import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
-import Navbar from './components/Navbar';
-import Cart from './components/Cart';
-import Home from './components/Home';
-import NotFound from './components/NotFound';
+import Navbar from "./components/Navbar";
+import Cart from "./components/Cart";
+import Home from "./components/Home";
+import NotFound from "./components/NotFound";
 
 function App() {
   return (
